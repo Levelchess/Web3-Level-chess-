@@ -5,3 +5,5 @@ So idea is that players play Level chess game and when somebody wins the game, h
 2. If you win the game for 4 players you get cryptocoin randomly - Knight, Rook or Bishop.
 3. If you win the game for 8 - cryptocoin Queen.
 4. If for 16 - cryptcoin King.
+
+Or playing Level chess game with minted figures. If you loose the game you loose all your figures to the winner.
